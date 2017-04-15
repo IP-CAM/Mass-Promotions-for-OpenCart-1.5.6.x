@@ -1,0 +1,1 @@
+# Promoções em massa para OpenCart 1.5.6.*
